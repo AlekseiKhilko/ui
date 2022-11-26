@@ -1,4 +1,4 @@
-package org.example;
+package test.ui;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
